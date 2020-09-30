@@ -6,7 +6,7 @@ The main source repository is at http://code.google.com/p/sumatrapdf/
 
 A read-only git mirror is at https://github.com/kjk/sumatrapdf
 
-Want to join the project and contribute code? Read
+Want to join the project and contribute more on this project ? Read
 https://code.google.com/p/sumatrapdf/wiki/JoinTheProject
 
 To compile you need Visual Studio 2008, 2010 or 2012. Open the right solution
